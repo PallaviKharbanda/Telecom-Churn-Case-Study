@@ -10,7 +10,7 @@ Logistc Regression
 Pandas, Numpy, sklearn, statsmodels, Matplotlib, Seaborn
 
 ### Methodology:
-Step 1 Merged Churn data, Customer data and Churn data into a joint dataset
+Step 1 Merged Churn data, Customer data and Internet data into a joint dataset
 
 Step 2 Converted Categorical features into Numeric features using pandas dummy variable creation
 
